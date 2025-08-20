@@ -35,6 +35,10 @@ Install **GCC** (or another C compiler). Check with:
 ```bash
 gcc --version
 
+# clone repo
+git clone https://github.com/LovelyShades/Chamption_Battle_Game.git
+cd Chamption_Battle_Game
+
 #Compile
 Using the provided Makefile:
 make
