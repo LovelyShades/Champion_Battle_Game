@@ -65,9 +65,6 @@ Player 1 (MAGE) wins and gains a new champion.
 Player 2 (SUPPORT) loses two champions.
 
 🧱 Project Structure
-arduino
-Copy
-Edit
 main.c       # game loop & battle logic
 champion.c   # champion creation, insertion, removal
 champion.h   # struct + function declarations
